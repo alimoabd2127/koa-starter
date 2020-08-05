@@ -1,7 +1,7 @@
 {
-  "name": "aws-message-server",
+  "name": "koa-server-starter",
   "version": "1.0.0",
-  "description": "Koa Server for sending messages through AWS SNS and SES",
+  "description": "Koa Server starter",
   "author": "Abdulaziz Alimov",
   "private": true,
   "scripts": {
