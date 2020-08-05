@@ -1,4 +1,4 @@
-# AWS Message Server
+# Koa Starter Server
 
 A NodeJS server starter with nicely organized routes, utils, logging, and error handling using Koa.
 Has full typescript support with ts-node and ts-node-dev.
@@ -22,10 +22,6 @@ See [here](https://github.com/alimoabd2127/AWSMessageServer) for a more advanced
 ## Build Setup
 
 ```bash
-# create or modify the existing .env file with your environment variables
-# docker can either be linked the file or you can pass them with the -e argument
-ENV_VAR=myEnvironmentVariable
-
 # install dependencies
 $ npm install
 
